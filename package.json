@@ -9,7 +9,6 @@
   "main": "web.js",
   "scripts": {
     "test": "grunt test",
-    "postinstall": "echo postinstall time; ./node_modules/grunt-cli/bin/grunt build"
   },
   "devDependencies": {
     "grunt": "^0.4.1",
