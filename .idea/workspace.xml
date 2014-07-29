@@ -26,7 +26,7 @@
       <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="24" selection-start="312" selection-end="312" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="972">
+            <state line="20" column="24" selection-start="312" selection-end="312" vertical-scroll-proportion="0.0" vertical-offset="197" max-vertical-offset="972">
               <folding />
             </state>
           </provider>
@@ -41,10 +41,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="web.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="web.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="5" selection-start="292" selection-end="292" vertical-scroll-proportion="0.33070865" vertical-offset="0" max-vertical-offset="762">
+            <state line="14" column="5" selection-start="292" selection-end="292" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="504">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="24" selection-start="195" selection-end="195" vertical-scroll-proportion="0.22556391" vertical-offset="0" max-vertical-offset="918">
               <folding />
             </state>
           </provider>
@@ -54,15 +63,6 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state line="1" column="0" selection-start="13" selection-end="13" vertical-scroll-proportion="-0.72" vertical-offset="0" max-vertical-offset="180">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="home.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/scripts/controllers/home.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="8" selection-start="215" selection-end="261" vertical-scroll-proportion="0.0" vertical-offset="198" max-vertical-offset="342">
               <folding />
             </state>
           </provider>
@@ -146,8 +146,8 @@
         <option value="$PROJECT_DIR$/app/views/profile.html" />
         <option value="$PROJECT_DIR$/Procfile" />
         <option value="$PROJECT_DIR$/web.js" />
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
@@ -533,23 +533,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="24" selection-start="312" selection-end="312" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="972">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/scripts/controllers/resume.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="48" column="12" selection-start="1929" selection-end="1953" vertical-scroll-proportion="0.0" vertical-offset="134" max-vertical-offset="1062" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/portfolio.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="76" column="21" selection-start="2387" selection-end="2387" vertical-scroll-proportion="0.0" vertical-offset="756" max-vertical-offset="2214">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/resume.html">
@@ -571,13 +557,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="2" selection-start="199" selection-end="199" vertical-scroll-proportion="-7.037037" vertical-offset="8" max-vertical-offset="918">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="0" selection-start="13" selection-end="13" vertical-scroll-proportion="-0.72" vertical-offset="0" max-vertical-offset="180">
@@ -585,9 +564,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/portfolio.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="76" column="21" selection-start="2387" selection-end="2387" vertical-scroll-proportion="0.0" vertical-offset="756" max-vertical-offset="2214">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="24" selection-start="312" selection-end="312" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="972">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="5" selection-start="292" selection-end="292" vertical-scroll-proportion="0.33070865" vertical-offset="0" max-vertical-offset="762">
+        <state line="14" column="5" selection-start="292" selection-end="292" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="504">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="24" selection-start="195" selection-end="195" vertical-scroll-proportion="0.22556391" vertical-offset="0" max-vertical-offset="918">
           <folding />
         </state>
       </provider>

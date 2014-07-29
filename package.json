@@ -8,7 +8,7 @@
   },
   "main": "web.js",
   "scripts": {
-    "test": "grunt test",
+    "test": "grunt test"
   },
   "devDependencies": {
     "grunt": "^0.4.1",
