@@ -3,7 +3,8 @@
   "version": "0.0.1",
   "dependencies": {
     "logfmt": "~1.1.2",
-    "express": "~4.7.2"
+    "express": "~4.7.2",
+    "gzippo": "0.2.0"
   },
   "main": "web.js",
   "scripts": {
