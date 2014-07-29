@@ -32,15 +32,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="resume.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/scripts/controllers/resume.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="48" column="12" selection-start="1929" selection-end="1953" vertical-scroll-proportion="0.0" vertical-offset="109" max-vertical-offset="1062">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="portfolio.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/scripts/controllers/portfolio.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -50,19 +41,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="web.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="web.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="37" selection-start="211" selection-end="211" vertical-scroll-proportion="0.11637931" vertical-offset="0" max-vertical-offset="928">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="script.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/js/script.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="85" column="13" selection-start="2458" selection-end="2458" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2898">
+            <state line="6" column="0" selection-start="174" selection-end="211" vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="216">
               <folding />
             </state>
           </provider>
@@ -86,6 +68,15 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="resume.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/resume.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="129" column="8" selection-start="5920" selection-end="5920" vertical-scroll-proportion="-86.0" vertical-offset="0" max-vertical-offset="2448">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="portfolio.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/portfolio.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -95,10 +86,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/scripts/controllers/main.js">
+      <file leaf-file-name="profile.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/profile.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="0" selection-start="279" selection-end="279" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
+            <state line="13" column="30" selection-start="417" selection-end="417" vertical-scroll-proportion="-8.666667" vertical-offset="0" max-vertical-offset="1368">
+              <folding>
+                <element signature="n#style#0;n#img#0;n#a#0;n#td#0;n#tr#0;n#table#0;n#article#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#ul#0;n#td#1;n#tr#0;n#table#0;n#article#0;n#div#1;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Procfile" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Procfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="16" selection-start="16" selection-end="16" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="928">
               <folding />
             </state>
           </provider>
@@ -132,7 +135,6 @@
         <option value="$PROJECT_DIR$/app/views/main.html" />
         <option value="$PROJECT_DIR$/app/scripts/controllers/home.js" />
         <option value="$PROJECT_DIR$/app/scripts/controllers/main.js" />
-        <option value="$PROJECT_DIR$/app/views/profile.html" />
         <option value="$PROJECT_DIR$/app/js/script.js" />
         <option value="$PROJECT_DIR$/app/styles/screen.css" />
         <option value="$PROJECT_DIR$/app/views/resume.html" />
@@ -145,6 +147,8 @@
         <option value="$PROJECT_DIR$/app/scripts/app.js" />
         <option value="$PROJECT_DIR$/app/scripts/controllers/portfolio.js" />
         <option value="$PROJECT_DIR$/web.js" />
+        <option value="$PROJECT_DIR$/app/views/profile.html" />
+        <option value="$PROJECT_DIR$/Procfile" />
       </list>
     </option>
   </component>
@@ -200,6 +204,38 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cv" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cv" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cv" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cv" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -242,7 +278,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="51" y="-4" width="1869" height="1084" extended-state="6" />
+    <frame x="51" y="-4" width="1869" height="1084" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -312,11 +348,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/old/resume.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="10" selection-start="554" selection-end="565" vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="5508" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="6" selection-start="269" selection-end="269" vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="216">
@@ -348,11 +379,6 @@
         <state line="46" column="38" selection-start="1859" selection-end="1861" vertical-scroll-proportion="0.0" vertical-offset="828" max-vertical-offset="1206" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/old/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="182" column="4" selection-start="4894" selection-end="5515" vertical-scroll-proportion="0.0" vertical-offset="2916" max-vertical-offset="2916" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/scripts/controllers/resume.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="56" selection-start="225" selection-end="274" vertical-scroll-proportion="0.0" vertical-offset="198" max-vertical-offset="378">
@@ -374,11 +400,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/old/resume.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="10" selection-start="554" selection-end="565" vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="5508" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="6" selection-start="269" selection-end="269" vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="216">
@@ -389,11 +410,6 @@
     <entry file="file://$PROJECT_DIR$/app/___index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="33" column="10" selection-start="1239" selection-end="1250" vertical-scroll-proportion="0.0" vertical-offset="299" max-vertical-offset="1566" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/old/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="19" selection-start="545" selection-end="554" vertical-scroll-proportion="0.0" vertical-offset="396" max-vertical-offset="2718" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/index.html">
@@ -424,11 +440,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/old/resume.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="83" column="0" selection-start="2071" selection-end="9030" vertical-scroll-proportion="0.0" vertical-offset="1494" max-vertical-offset="5454" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="6" selection-start="269" selection-end="269" vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="216">
@@ -441,11 +452,6 @@
         <state line="33" column="10" selection-start="1239" selection-end="1250" vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="1566" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/old/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="185" column="4" selection-start="5056" selection-end="5115" vertical-scroll-proportion="-67.62963" vertical-offset="694" max-vertical-offset="2916" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/styles/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.5666317" vertical-offset="540" max-vertical-offset="1530" />
@@ -454,11 +460,6 @@
     <entry file="file://$PROJECT_DIR$/app/___index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="33" column="10" selection-start="1239" selection-end="1250" vertical-scroll-proportion="0.0" vertical-offset="299" max-vertical-offset="1566" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/old/resume.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="10" selection-start="554" selection-end="565" vertical-scroll-proportion="54.407406" vertical-offset="1865" max-vertical-offset="5508" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Gruntfile.js">
@@ -471,11 +472,6 @@
         <state line="15" column="14" selection-start="371" selection-end="371" vertical-scroll-proportion="0.31839624" vertical-offset="0" max-vertical-offset="848" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/old/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="3517" vertical-scroll-proportion="-0.43953487" vertical-offset="378" max-vertical-offset="2718" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/robots.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="875" />
@@ -485,25 +481,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="837">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/old/portfolio.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="537" selection-end="637" vertical-scroll-proportion="-1.4347305" vertical-offset="1540" max-vertical-offset="3042">
-          <folding>
-            <element signature="tag#ul#1;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#ul#2;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/old/profile.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="83" column="8" selection-start="2075" selection-end="5086" vertical-scroll-proportion="-7.296296" vertical-offset="1297" max-vertical-offset="2664">
-          <folding>
-            <element signature="tag#section#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -525,23 +502,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="8" selection-start="215" selection-end="261" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="342">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/resume.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="129" column="8" selection-start="5920" selection-end="5920" vertical-scroll-proportion="2.5771365" vertical-offset="0" max-vertical-offset="2448">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/profile.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="21" selection-start="1359" selection-end="1359" vertical-scroll-proportion="0.2408435" vertical-offset="467" max-vertical-offset="1368">
-          <folding>
-            <element signature="n#style#0;n#img#0;n#a#0;n#td#0;n#tr#0;n#table#0;n#article#0;n#div#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#ul#0;n#td#1;n#tr#0;n#table#0;n#article#0;n#div#1;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -610,7 +570,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="37" selection-start="211" selection-end="211" vertical-scroll-proportion="0.11637931" vertical-offset="0" max-vertical-offset="928">
+        <state line="6" column="0" selection-start="174" selection-end="211" vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="216">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/resume.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="129" column="8" selection-start="5920" selection-end="5920" vertical-scroll-proportion="-86.0" vertical-offset="0" max-vertical-offset="2448">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/profile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="30" selection-start="417" selection-end="417" vertical-scroll-proportion="-8.666667" vertical-offset="0" max-vertical-offset="1368">
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#td#0;n#tr#0;n#table#0;n#article#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#td#1;n#tr#0;n#table#0;n#article#0;n#div#1;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="16" selection-start="16" selection-end="16" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="928">
           <folding />
         </state>
       </provider>
