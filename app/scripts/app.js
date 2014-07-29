@@ -18,7 +18,6 @@ angular
     'ngTouch',
      'ngCookies',
     'google-maps',
-        'iso.directives'
    ])
   .config(function ($routeProvider) {
     $routeProvider
