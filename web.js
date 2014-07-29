@@ -1,39 +1,54 @@
-express = require "express"
+var app, express, oneDay, pushState;
 
-app = express()
+express = require("express");
 
-console.log app.settings.env
+app = express();
 
-oneDay = 86400000
-pushState = (req, res) ->
-    newUrl = req.protocol + '://' + req.get('Host') + '/#' + req.url
-res.redirect newUrl
+console.log(app.settings.env);
 
+oneDay = 86400000;
 
-app.configure 'development', () ->
-    app.use express.compress()
-app.use express.static __dirname + '/dist'
-app.use express.logger()
+pushState = function(req, res) {
+    var newUrl;
+    newUrl = req.protocol + '://' + req.get('Host') + '/#' + req.url;
+    return res.redirect(newUrl);
+};
 
-app.configure 'staging', () ->
-    app.use(express.basicAuth('whateveruser', 'whateverpassword'))
-app.use express.compress()
-app.use express.static __dirname + '/dist'
+app.configure('development', function() {
+    app.use(express.compress());
+    app.use(express["static"](__dirname + '/dist'));
+    return app.use(express.logger());
+});
 
-app.configure 'production', () ->
-    app.use express.compress()
-app.use express.static __dirname + '/dist', { maxAge: oneDay }
+app.configure('staging', function() {
+    app.use(express.basicAuth('whateveruser', 'whateverpassword'));
+    app.use(express.compress());
+    return app.use(express["static"](__dirname + '/dist'));
+});
 
-app.get '*', (req, res) ->
-    newUrl = req.protocol + '://' + req.get('Host') + '/#' + req.url
-res.redirect newUrl
+app.configure('production', function() {
+    app.use(express.compress());
+    return app.use(express["static"](__dirname + '/dist', {
+        maxAge: oneDay
+    }));
+});
 
-exports.startServer = (port, path, callback) ->
-    p = process.env.PORT || port
-console.log "Starting server on port: #{p}, path /#{path}"
-app.listen p
-if callback?
-    callback app
+app.get('*', function(req, res) {
+    var newUrl;
+    newUrl = req.protocol + '://' + req.get('Host') + '/#' + req.url;
+    return res.redirect(newUrl);
+});
 
-    if process.env.PORT
-        this.startServer(process.env.PORT, "dist")
+exports.startServer = function(port, path, callback) {
+    var p;
+    p = process.env.PORT || port;
+    console.log("Starting server on port: " + p + ", path /" + path);
+    app.listen(p);
+    if (callback != null) {
+        return callback(app);
+    }
+};
+
+if (process.env.PORT) {
+    this.startServer(process.env.PORT, "dist");
+}
